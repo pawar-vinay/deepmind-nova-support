@@ -1,0 +1,7 @@
+{
+  "name": "DeepMind Nova Support",
+  "description": "Next-generation customer support agent featuring real-time voice assistance and intelligent chat, powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
